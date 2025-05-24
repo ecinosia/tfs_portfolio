@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tfs_portfolio/static/css/main.0f32c1dd.css",
+    "main.js": "/tfs_portfolio/static/js/main.6ffe5e47.js",
+    "static/js/415.a3e98fb9.chunk.js": "/tfs_portfolio/static/js/415.a3e98fb9.chunk.js",
+    "static/js/787.45cf4238.chunk.js": "/tfs_portfolio/static/js/787.45cf4238.chunk.js",
+    "static/media/tfs_cv.pdf": "/tfs_portfolio/static/media/tfs_cv.2467c3bb728fe222f910.pdf",
+    "static/media/home-main.svg": "/tfs_portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/tfs_portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/tfs_portfolio/static/media/logo.460d7f3d67336f2d948c.png",
+    "static/media/home-bg.jpg": "/tfs_portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/tfs_portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/tfs_portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/tfs_portfolio/index.html",
+    "main.0f32c1dd.css.map": "/tfs_portfolio/static/css/main.0f32c1dd.css.map",
+    "main.6ffe5e47.js.map": "/tfs_portfolio/static/js/main.6ffe5e47.js.map",
+    "415.a3e98fb9.chunk.js.map": "/tfs_portfolio/static/js/415.a3e98fb9.chunk.js.map",
+    "787.45cf4238.chunk.js.map": "/tfs_portfolio/static/js/787.45cf4238.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f32c1dd.css",
+    "static/js/main.6ffe5e47.js"
+  ]
+}
